@@ -1,0 +1,15 @@
+    <project>
+      <modelVersion>4.0.0</modelVersion>
+     
+         
+      <groupId>pascoal2250</groupId>
+      <artifactId>pascoalfinaljekins</artifactId>
+      <version>snap version 1</version>
+    <build> 
+
+     <Finalname>
+                  pascoalfinaljekins
+     </Finalname>
+    
+    </build>
+    </project>
